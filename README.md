@@ -1,7 +1,7 @@
 # Face Recognition With Open-CV
 
 ## Description
-This is a part from my graduation project where we use OpenCV library with python to recognize faces and take an action according to the face is known or not.
+This is a part of my graduation project where we use OpenCV library with python to recognize faces and take an action according to the face is known or not.
 We are running it on a Raspberry Pi 3 with a USB web cam connected.
 
 ## Requirements 
