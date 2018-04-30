@@ -1,3 +1,4 @@
+"""This code is for detecting faces only without recognizing it"""
 import cv2
 
 cap = cv2.VideoCapture(0)
